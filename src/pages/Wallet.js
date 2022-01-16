@@ -180,7 +180,7 @@ class Wallet extends React.Component {
               variant="danger" 
               type="button"
             >
-                <Link style={{ textDecoration: 'none' }} to="/"> Logout</Link>
+                <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/"> Logout</Link>
             </Button>
           </div>
         </div>
